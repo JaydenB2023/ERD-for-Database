@@ -1,0 +1,13 @@
+C:\AU Classes\CPSC 2100 Database Programming\ERD Project\bin\Debug\ERD Project.exe.config
+C:\AU Classes\CPSC 2100 Database Programming\ERD Project\bin\Debug\ERD Project.exe
+C:\AU Classes\CPSC 2100 Database Programming\ERD Project\bin\Debug\ERD Project.pdb
+C:\AU Classes\CPSC 2100 Database Programming\ERD Project\obj\Debug\ERD Project.csproj.AssemblyReference.cache
+C:\AU Classes\CPSC 2100 Database Programming\ERD Project\obj\Debug\ERD Project.csproj.SuggestedBindingRedirects.cache
+C:\AU Classes\CPSC 2100 Database Programming\ERD Project\obj\Debug\ERD_Project.Form1.resources
+C:\AU Classes\CPSC 2100 Database Programming\ERD Project\obj\Debug\ERD_Project.Form2.resources
+C:\AU Classes\CPSC 2100 Database Programming\ERD Project\obj\Debug\ERD_Project.Form3.resources
+C:\AU Classes\CPSC 2100 Database Programming\ERD Project\obj\Debug\ERD_Project.Properties.Resources.resources
+C:\AU Classes\CPSC 2100 Database Programming\ERD Project\obj\Debug\ERD Project.csproj.GenerateResource.cache
+C:\AU Classes\CPSC 2100 Database Programming\ERD Project\obj\Debug\ERD Project.csproj.CoreCompileInputs.cache
+C:\AU Classes\CPSC 2100 Database Programming\ERD Project\obj\Debug\ERD Project.exe
+C:\AU Classes\CPSC 2100 Database Programming\ERD Project\obj\Debug\ERD Project.pdb
